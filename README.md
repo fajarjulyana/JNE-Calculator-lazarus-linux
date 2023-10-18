@@ -29,3 +29,6 @@ Kami selalu terbuka terhadap kontribusi. Jika Anda ingin berkontribusi pada proy
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
+
+## Dokumentasi
+<img src="capture/Screenshot from 2023-10-18 10-12-33.png">
