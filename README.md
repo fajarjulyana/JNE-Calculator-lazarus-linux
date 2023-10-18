@@ -1,2 +1,2 @@
-# JNE-Calculator-lazarus-linux
-JNE Lazarus Linux 
+# JNE-Calculator-lazarus
+Made with lazarus

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1683474143"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/fajarjulyana/Downloads/JNE-Calculator-lazarus/lib/x86_64-linux -Fu/home/fajarjulyana/Downloads/JNE-Calculator-lazarus/src -Fu/usr/lib/lazarus/lcl/units/x86_64-linux/qt5 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/components/freetype/lib/x86_64-linux -Fu/usr/lib/lazarus/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/packager/units/x86_64-linux -Fu/home/fajarjulyana/Downloads/JNE-Calculator-lazarus/ -FU/home/fajarjulyana/Downloads/JNE-Calculator-lazarus/lib/x86_64-linux/ -FE/home/fajarjulyana/Downloads/JNE-Calculator-lazarus/ -o/home/fajarjulyana/Downloads/JNE-Calculator-lazarus/jnecalclinux -dLCL -dLCLqt5 jnecalclinux.lpr"/>
+</CONFIG>

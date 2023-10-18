@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="jnecalclinux.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/source.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MenuCalc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="157"/>
+        <CursorPos X="45" Y="168"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/source.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Lazarus/AVDCommonLaz.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="3" Y="10"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Lazarus/TASIOHostBasic.lrs"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Lazarus/DVSTGuiLaz.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="3"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Source/DAVDComplex.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="89" Column="3" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="84" Column="3" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="67" Column="34" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="109" Column="14" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="138" Column="17" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="111" Column="11" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="112" Column="7" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="98" Column="8" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="101" Column="3" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="119" Column="18" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="101" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="124" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="125" Column="24" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="110" Column="2" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="125" Column="3" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="163" Column="6" TopLine="148"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="164" Column="130" TopLine="148"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="155" Column="12" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="166" Column="6" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="159" Column="31" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="155" Column="15" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="79" Column="21" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="165" Column="33" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="168" Column="39" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="167" Column="111" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="src/source.pas"/>
+        <Caret Line="168" Column="44" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="jnecalclinux.lpr"/>
+      </Position>
+      <Position>
+        <Filename Value="../Lazarus/AVDCommonLaz.pas"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="../Lazarus/DVSTGuiLaz.pas"/>
+        <Caret Line="11" Column="3" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="../Lazarus/AVDCommonLaz.pas"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
