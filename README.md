@@ -16,7 +16,7 @@ Sebelum Anda dapat menggunakan proyek ini, pastikan Anda memiliki instalasi Laza
    git clone https://github.com/fajarjulyana/JNE-Calculator-lazarus-linux.git
    ```
 
-2. Buka Lazarus dan buka proyek dengan membuka file `Jbuka.lpi`.
+2. Buka Lazarus dan buka proyek dengan membuka file `jnecalclinux.lpi`.
 
 3. Compile proyek dengan menggunakan Lazarus.
 
